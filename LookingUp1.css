@@ -1,0 +1,173 @@
+body {
+    
+}
+
+
+div {
+    text-align: center;
+    margin: 0px;
+}
+
+div div {
+    display: inline-block;
+    margin: 10px 35px;
+    height: 20px;
+}
+
+#background {
+    background-color: black;    
+}
+
+#menu {
+    position: 
+        fixed;
+        top: 0px;
+    min-height: 55px;
+    margin: 0px auto;
+    background-color: #F9C80E;
+    color: #6B2D5C;
+    width:100%;
+    font-size: 36px;
+   font-family: 'Londrina Sketch', cursive;
+   z-index:6000;
+   
+}
+
+#header {
+    height: auto;
+    margin: -500px 0px 0px -500px;
+    font-family: 'Londrina Sketch', cursive;
+    font-size: 150px;
+    
+}
+
+#subtitle {
+    height: auto;
+    margin: -39px 0px 0px -450px;
+    font-size: 35px;
+    font-family: 'The Girl Next Door', cursive;
+    color: black;
+}
+
+#mainphoto {
+     height: 715px;
+     margin: 0px 0px 0px 0px;
+     width: 100%;
+     z-index: 5000;
+     
+}
+
+
+#mainphoto img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#about {
+    min-height: 770px;
+    margin: 250px 0px 0px 0px;
+    background-color: #1E91D6;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 30px;
+    color: black;
+    padding: 0px 100px;
+    
+    
+}
+
+ul {
+    list-style: none;
+}
+
+
+
+#mind_text {
+    margin: 0px 0px -20px 0px;
+    min-height: 815px;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 20px;
+    text-align: center;
+    background-color: #F86624;
+    color: white;
+    padding: 0px 200px;
+
+}
+
+#mind_photo {
+    margin: 0px 0px 0px 0px;
+    height: 815px;
+}
+
+#mind_photo img {
+    width: 100%;
+    height: 100%;
+}
+
+#body_text {
+    margin: 0px 0px -20px 0px;
+    min-height: 815px;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: #6B2D5C;
+    padding: 0px 200px;
+}
+
+
+#body_photo {
+    margin: 0px;
+    height: 815px;
+    float: left;
+    left: 0;
+}
+
+#body_photo img {
+    width: 100%;
+    height: 100%;
+}
+
+#soul_photo {
+    margin: 0px 0px 0px 0px;
+    height: 815px;
+    float: right;
+}    
+
+
+#soul_photo img {
+    width: 100%;
+    height: 100%;
+}
+
+#soul_text {
+    margin: 0px 0px -20px 0px;
+    min-height: 975px;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: #EA3546;
+    padding: 0px 200px;
+}
+
+
+#contact {
+    height: 55px;
+    margin: 0px 0px 0px 0px;
+    padding-top: 15px;
+    background-color: #F9C80E;
+    color: #6B2D5C;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 25px;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color:#6B2D5C;
+}
+
+
+/*COMMENTS*/
