@@ -37,14 +37,14 @@ div div {
     height: auto;
     margin: -500px 0px 0px -500px;
     font-family: 'Londrina Sketch', cursive;
-    font-size: 150px;
+    font-size: 125px;
     
 }
 
 #subtitle {
     height: auto;
-    margin: -39px 0px 0px -450px;
-    font-size: 35px;
+    margin: -35px 0px 0px -450px;
+    font-size: 30px;
     font-family: 'The Girl Next Door', cursive;
     color: black;
 }
