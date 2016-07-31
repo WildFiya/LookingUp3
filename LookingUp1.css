@@ -33,21 +33,7 @@ div div {
    
 }
 
-#header {
-    height: auto;
-    margin: -500px 0px 0px -500px;
-    font-family: 'Londrina Sketch', cursive;
-    font-size: 125px;
-    
-}
 
-#subtitle {
-    height: auto;
-    margin: -35px 0px 0px -450px;
-    font-size: 30px;
-    font-family: 'The Girl Next Door', cursive;
-    color: black;
-}
 
 #mainphoto {
      height: 715px;
@@ -67,7 +53,7 @@ div div {
 
 #about {
     min-height: 770px;
-    margin: 250px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
     background-color: #1E91D6;
     font-family: 'The Girl Next Door', cursive;
     font-size: 30px;
